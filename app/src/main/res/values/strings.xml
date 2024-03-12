@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sayur</string>
+    <string name="foto_anda">your_photo.jpg</string>
+    <string name="nama_anda">Heri Cahyono</string>
+    <string name="email_anda">hericahyononew@gmail.com</string>
+    <string name="tentang_kami">Tentang Kami</string>
+</resources>
